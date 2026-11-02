@@ -1,1 +1,1 @@
-This is a course Im currently enrolled in to gain theoritical knowledge and hands-on experience of Generative AI. I'd be updating this repositry whenever I learn something new and try it practically as it shows my commitment and passion for the field.
+This is a course Im currently enrolled in to gain theoritical knowledge and hands on experience of Generative AI. I'd be updating this repositry whenever I learn something new and try it practically as it shows my commitment and passion for the field.
